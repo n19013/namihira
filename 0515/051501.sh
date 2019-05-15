@@ -1,1 +1,1 @@
-find /var/log -name '*.log'
+find /var/log -type f -name "*.log"
