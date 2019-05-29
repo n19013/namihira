@@ -1,1 +1,1 @@
-  grep -w 80/tcp /etc/services
+grep -w 80/tcp /etc/services

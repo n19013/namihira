@@ -1,1 +1,1 @@
-du -b /var/* 2> /dev/null | sort -rn | head -5
+ sudo du -b /var/* | sort -rn | head -n 5
